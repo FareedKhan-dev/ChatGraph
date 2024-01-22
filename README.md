@@ -34,10 +34,17 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
 Get Gemini Multimodal API Key from [here](https://makersuite.google.com/app/apikey)
 
 <img src="https://i.ibb.co/tYSxt8X/Screenshot-10.png">
 
+Replace your api key here
+
+```python
+# Configure the library with your API key
+genai.configure(api_key="Your-API-Key-Here")
+```
 
 Start the server
 
