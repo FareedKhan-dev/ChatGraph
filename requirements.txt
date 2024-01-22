@@ -1,0 +1,5 @@
+google-generativeai
+grpcio
+grpcio-tools
+streamlit
+Pillow
