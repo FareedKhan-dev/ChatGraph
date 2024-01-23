@@ -1,6 +1,8 @@
 
 ## Chat with Graphs Intelligently
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chat-with-graph.streamlit.app/)
+
 <img src="graphs/1.png">
 
 Graphs are one of the ways that provide important information about your data or your analysis on that data. However, most of the time, reading graphs is among the difficult tasks. How good would it be if you could use a [multimodal](https://blog.google/technology/ai/google-gemini-ai/) to understand your graphs and receive information that you cannot learn by just seeing it?
